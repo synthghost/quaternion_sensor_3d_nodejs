@@ -1,6 +1,6 @@
 {
   "name": "quaternion_3d",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "serialport": "^9.0.0",
-    "ws": "^7.3.0"
+    "express": "^4.18.3",
+    "serialport": "^12.0.0",
+    "ws": "^8.16.0"
   }
 }
